@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCustomWidget">
+        <attr name="myText" format="string"/>
+        <attr name="fancyColors" format="boolean"/>
+        <attr name="onAction" format="string"/>
+    </declare-styleable>
+</resources>
